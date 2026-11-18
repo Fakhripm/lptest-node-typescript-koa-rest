@@ -88,5 +88,8 @@
     "transform": {
       "^.+\\.(ts|tsx)$": "ts-jest"
     }
+  },
+  "overrides": {
+    "ansi-regex": "5.0.1"
   }
 }
