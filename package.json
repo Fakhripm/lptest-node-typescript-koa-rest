@@ -90,6 +90,7 @@
     }
   },
   "overrides": {
+    "jws": "3.2.3",
     "js-yaml": "4.3.2",
     "figlet": "1.11.3",
     "decode-uri-component": "0.2.1",
